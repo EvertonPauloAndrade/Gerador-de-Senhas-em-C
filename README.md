@@ -2,7 +2,7 @@
 
 Este é um geradpr de senhas em C, criado a partir de vários exemplos vistos na internet
 
-#FINALIDADE DA APLICAÇÃO
+# FINALIDADE DA APLICAÇÃO
 
 Eu, Everton Paulo, resolvi criar essa aplicação em C para o seguinte:
     Queria um gerador de senhas criado por mim;
